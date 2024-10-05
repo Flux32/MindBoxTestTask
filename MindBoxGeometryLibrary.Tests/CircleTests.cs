@@ -1,4 +1,4 @@
-using GeometryLibraryTest.Figures;
+using GeometryLibraryTest.Shapes;
 
 namespace GeometryLibraryTest.Tests;
 

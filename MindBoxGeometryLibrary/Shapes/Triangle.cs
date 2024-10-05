@@ -1,4 +1,4 @@
-namespace GeometryLibraryTest.Figures;
+namespace GeometryLibraryTest.Shapes;
 
 public class Triangle : IShape
 {
